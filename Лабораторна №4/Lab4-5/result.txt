@@ -1,0 +1,6 @@
+Computer model: PC
+Computer price: $1500
+CPU mark: AMD Ryzen 5 5600x
+CPU clock frequency: 3.7 GHz
+Hard drive capacity: 1 TB
+
